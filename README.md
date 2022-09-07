@@ -5,7 +5,7 @@ This is a simple demo for the coming GiftGame.
 
 To make everyone pick a gift from the gift pool and take with conflict, I make the python demo.
 ## environments
-*python 3.10 or later*(my verion is 3.10, if any version works, let me know).
+*python 3.10 or later* (my verion is 3.10, if any version works, let me know).
 
 ## Example
 Run the command
