@@ -32,7 +32,7 @@ You may get a result like this,
 .
 .
 gift assign success!
-1,3,2,4
+
 ***********Gift Assign*********** 
 
 *       yl Pick zy gift         * 
