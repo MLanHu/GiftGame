@@ -1,16 +1,18 @@
 # GiftGame
-For our four friends
-This is a simple demo for GiftGame.
-To make everyone pick a gift from the gift pool and take with conflict, I make the python demo
+For our four friends.
+
+This is a simple demo for the coming GiftGame.
+
+To make everyone pick a gift from the gift pool and take with conflict, I make the python demo.
 ## environments
 *python 3.10 or later*(my verion is 3.10, if any version work, let me know)
 
 ## Example
-run the command
+Run the command
 ```python
 python gift.py
 ```
-you may get a result like this
+You may get a result like this,
 ```python
 ***********Gift Number***********
 
