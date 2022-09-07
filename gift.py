@@ -63,7 +63,7 @@ if __name__ == '__main__':
 
     print("gift assign success!")
 
-    print("%d,%d,%d,%d"%(ylPick, zyPick, xxPick, llPick))
+
     print("***********Gift Assign***********\n")
     print("*\tyl Pick %s gift \t* \n" % GiftToName(ylPick, yl, zy, xx, ll))
     print("*\tzy Pick %s gift \t* \n" % GiftToName(zyPick, yl, zy, xx, ll))
